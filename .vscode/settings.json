@@ -1,0 +1,4 @@
+{
+	"editor.inlineSuggest.showToolbar": "always",
+	"vscode.tsc.compiler.alertTSConfigChanges": "never"
+}
